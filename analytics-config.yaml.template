@@ -1,0 +1,11 @@
+# Google Analytics API configuration template
+# Copy this to analytics-config.yaml and fill in your values
+# NEVER commit analytics-config.yaml to git (it's in .gitignore)
+
+client_id: YOUR_CLIENT_ID_HERE
+client_secret: YOUR_CLIENT_SECRET_HERE
+refresh_token: YOUR_REFRESH_TOKEN_HERE
+
+# GA4 Property ID — found in Analytics > Admin > Property Settings
+# Format: just the number, e.g. 123456789  (NOT "properties/123456789")
+property_id: YOUR_GA4_PROPERTY_ID_HERE
