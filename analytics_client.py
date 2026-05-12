@@ -42,7 +42,7 @@ def build_client(config: dict) -> BetaAnalyticsDataClient:
         client_id=config["client_id"],
         client_secret=config["client_secret"],
     )
-    return BetaAnalyticsDataClient(credentials=credentials)
+    return BetaAnalyticsDataClient(credentials=credentials, transport="rest")
 
 
 def run_report(client: BetaAnalyticsDataClient, property_id: str, start_date: str, end_date: str) -> None:
