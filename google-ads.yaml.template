@@ -1,0 +1,9 @@
+# Google Ads API configuration template
+# Copy this to google-ads.yaml and fill in your values
+# NEVER commit google-ads.yaml to git (it's in .gitignore)
+
+developer_token: YOUR_DEVELOPER_TOKEN_HERE
+client_id: YOUR_CLIENT_ID_HERE
+client_secret: YOUR_CLIENT_SECRET_HERE
+refresh_token: YOUR_REFRESH_TOKEN_HERE
+# login_customer_id: YOUR_MANAGER_ACCOUNT_ID  # uncomment if using a MCC/manager account
