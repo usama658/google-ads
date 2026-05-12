@@ -1,5 +1,6 @@
 google-ads.yaml
 analytics-config.yaml
+gtm-config.yaml
 .env
 *.pyc
 __pycache__/

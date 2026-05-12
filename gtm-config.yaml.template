@@ -1,0 +1,11 @@
+# Google Tag Manager configuration template
+# Copy to gtm-config.yaml and fill in values
+# NEVER commit gtm-config.yaml (it's in .gitignore)
+
+client_id: YOUR_CLIENT_ID_HERE
+client_secret: YOUR_CLIENT_SECRET_HERE
+refresh_token: YOUR_REFRESH_TOKEN_HERE
+
+account_id: "YOUR_GTM_ACCOUNT_ID"
+container_id: "YOUR_GTM_CONTAINER_ID"
+public_id: GTM-XXXXXXX
