@@ -109,6 +109,12 @@
       "skillPath": "skills/email-sequence/SKILL.md",
       "computedHash": "49c9d1795813eec119a1fd9344e763fc911c05616411a68117b30d77204fa399"
     },
+    "find": {
+      "source": "usama658/google-ads",
+      "sourceType": "github",
+      "skillPath": "skills/find/SKILL.md",
+      "computedHash": "2a1d4e70319eb1ef31872fce9abbe724a977db1e087abe9be0c658d29e8b98c1"
+    },
     "form-cro": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
