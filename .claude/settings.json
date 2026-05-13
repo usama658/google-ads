@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl * www.clarity.ms*)"
+    ]
+  },
+  "sandbox": {
+    "network": {
+      "allowedDomains": [
+        "www.clarity.ms",
+        "clarity.ms"
+      ]
+    }
+  }
+}
